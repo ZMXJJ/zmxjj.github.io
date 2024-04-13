@@ -1,0 +1,17 @@
+// place your custom styles here
+@font-face {
+    font-family: 'Misans';
+    src: url('/public/MiSans-Regular.ttf') format('ttf'),
+         url('/public/MiSans-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+/* .vuepress/styles/index.css */
+body {
+    font-family: 'Misans', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Misans', 'Misans', sans-serif;
+  }
