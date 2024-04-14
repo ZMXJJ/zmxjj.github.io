@@ -1,8 +1,8 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 ---
 
 # 介绍页
 
-将你的个人介绍和档案放置在此处。
+享云智联云科技

@@ -5,20 +5,22 @@ icon: home
 bgImage: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 bgImageDark: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 title: Blog-享云智联
-heroImage: https://s21.ax1x.com/2024/04/13/pFjIkHx.png
+heroImage: /assets/images/infinite.svg
+# heroImage: https://s21.ax1x.com/2024/04/13/pFjIkHx.png
 heroText: 享云智联云科技
 heroFullScreen: true
 tagline: Enjoy Everything, Enjoy the World!
+
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: EnjoyCloudDev
+    desc: 享云智联官方Github仓库
+    link: https://github.com/EnjoyCloudDev
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 官方网站
+    desc: EnjoyCloud 官方网站
+    link: https://blog.enjoycloud.top
 
   # - icon: book
   #   name: 书籍名称

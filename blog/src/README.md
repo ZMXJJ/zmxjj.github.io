@@ -11,14 +11,14 @@ tagline: Enjoy Everything, Enjoy the World!
 heroFullScreen: true
 projects:
   - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+    name: EnjoyCloudDev
+    desc: EnjoyCloud Github Rerepository
+    link: https://github.com/EnjoyCloudDev
 
   - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+    name: Our Website
+    desc: EnjoyCloud Website
+    link: https://blog.enjoycloud.top
 
 #   - icon: book
 #     name: book name

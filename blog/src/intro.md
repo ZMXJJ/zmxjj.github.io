@@ -1,8 +1,8 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 ---
 
 # Intro Page
 
-Place your introduction and profile here.
+EnjoyCloud Technology
