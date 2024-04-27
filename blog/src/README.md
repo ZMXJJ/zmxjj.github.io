@@ -20,7 +20,7 @@ projects:
     desc: EnjoyCloud Website
     link: https://blog.enjoycloud.top
 
-  - icon: link
+  - icon: article
     name: Chinese
     desc: 转换至简体中文
     link: https://blog.enjoycloud.top/zh
