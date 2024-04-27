@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80" fill="none">
+<rect  x="0" y="0" width="80" height="80" rx="20"    fill="url(#linear_fill_0_4_0)" >
+</rect>
+<path d="M51.6296 58C58.4634 58 64 52.4416 64 45.5872C64 38.992 58.877 33.5992 52.4051 33.196C50.7695 26.7592 44.9509 22 38.0278 22C29.8545 22 23.2275 28.6276 23.1852 36.8176C19.5192 38.6428 17 42.4408 17 46.8292C17 52.9996 21.982 58 28.1296 58L51.6296 58Z" stroke="rgba(255, 255, 255, 1)" stroke-width="3"      fill="url(#linear_fill_0_3)" fill-opacity="1">
+</path>
+<defs>
+<linearGradient id="linear_fill_0_4_0" x1="14.750399999999999" y1="12.250399999999999" x2="69.3752" y2="66.2504" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2090FF"  />
+<stop offset="1" stop-color="#2090FF" stop-opacity="0.6" />
+</linearGradient>
+<linearGradient id="linear_fill_0_3" x1="21.8748779296875" y1="31.87518310546875" x2="60.6248779296875" y2="53.1248779296875" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#86C1FC"  />
+<stop offset="1" stop-color="#2090FF" stop-opacity="0.73" />
+</linearGradient>
+</defs>
+</svg>
