@@ -3,7 +3,7 @@ icon: circle-info
 cover: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 ---
 
-# 介绍页
+# 关于我们
 
 享云智联云科技是一家致力于云计算SaaS解决方案的云服务提供商。
 

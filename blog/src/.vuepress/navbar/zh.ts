@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   // "/zh/demo/",
   {
     text: "文章",
-    icon: "pen-to-square",
+    icon: "book",
     prefix: "/zh/posts/",
     children: [
       // {
@@ -38,10 +38,8 @@ export const zhNavbar = navbar([
       //     "4",
       //   ],
       // },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      // { text: "樱桃", icon: "pen-to-square", link: "cherry" },
+      { text: "4月特别活动", icon: "pen-to-square", link: "event240411" },
     ],
   },
   // {

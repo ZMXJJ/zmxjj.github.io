@@ -1,4 +1,5 @@
 ---
+article: false
 icon: lock
 category:
   - Guide

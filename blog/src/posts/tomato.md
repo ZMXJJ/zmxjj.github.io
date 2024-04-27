@@ -1,4 +1,5 @@
 ---
+article: false
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
 date: 2022-01-12
@@ -7,8 +8,8 @@ category:
 tag:
   - red
   - round
-star: true
-sticky: true
+star: false
+sticky: false
 ---
 
 # Tomato

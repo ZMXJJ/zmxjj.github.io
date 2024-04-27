@@ -5,7 +5,7 @@ export const enNavbar = navbar([
   // "/demo/",
   {
     text: "Posts",
-    icon: "pen-to-square",
+    icon: "book",
     prefix: "/posts/",
     children: [
       // {
@@ -38,10 +38,8 @@ export const enNavbar = navbar([
       //     "4",
       //   ],
       // },
-      { text: "Cherry", icon: "pen-to-square", link: "cherry" },
-      { text: "Dragon Fruit", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      // { text: "Cherry", icon: "pen-to-square", link: "cherry" },
+      { text: "Event 2024-04", icon: "pen-to-square", link: "event240411" },
     ],
   },
   // {

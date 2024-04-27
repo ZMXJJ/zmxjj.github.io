@@ -1,4 +1,5 @@
 ---
+article: false
 title: Markdown Enhance
 icon: fab fa-markdown
 order: 2
