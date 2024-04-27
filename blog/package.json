@@ -1,7 +1,7 @@
 {
   "name": "enjoycloud-blog",
   "version": "1.0.0",
-  "description": "A blog about EnjoyCloud Team",
+  "description": "A blog website about EnjoyCloud Team",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -12,8 +12,8 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.9",
-    "vue": "^3.4.21",
+    "vue": "^3.4.25",
     "vuepress": "2.0.0-rc.9",
-    "vuepress-theme-hope": "2.0.0-rc.36"
+    "vuepress-theme-hope": "2.0.0-rc.37"
   }
 }
