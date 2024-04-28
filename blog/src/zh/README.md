@@ -6,7 +6,6 @@ bgImage: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 bgImageDark: https://s21.ax1x.com/2024/04/13/pFj4SaT.jpg
 title: Blog-享云智联
 heroImage: /assets/images/infinite.svg
-# heroImage: https://s21.ax1x.com/2024/04/13/pFjIkHx.png
 heroText: 享云智联云科技
 heroFullScreen: true
 tagline: Enjoy Everything, Enjoy the World!
