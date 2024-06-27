@@ -12,7 +12,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "享云智联云科技",
+      title: "Blog-享云智联云科技",
       description: "享云智联博客页",
     },
   },
